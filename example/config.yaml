@@ -1,0 +1,8 @@
+num_workers: 50
+connect_timeout: 1.5
+redis:
+  host: localhost
+  port: 6379
+  ttl: 1209600
+  db: 0
+  password: ''

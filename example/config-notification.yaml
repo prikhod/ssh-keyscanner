@@ -1,0 +1,15 @@
+redis:
+  host: localhost
+  port: 6379
+  ttl: 1209600
+  db: 0
+  password: ''
+telegram:
+  token: ${TOKEN_TELEGRAM}
+  chat_id: 88888888
+email:
+  login: 'test@example.com'
+  password: ${EMAIL_PASSWORD}
+  recipients:
+    - 'test1@example.com'
+    - 'test2@example.com'
