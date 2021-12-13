@@ -24,7 +24,7 @@ usage: ```python -m notification [-h] -c CONFIG```
 Для запуска системы оповещения используйте notification с конфигом config-notification.yaml 
 
 
-# Tests ssh-keyscan
+# Tests ssh-keyscan (/ssh_keyscanner/ssh-keyscan-benchmark.py)
 
 for 87.250.0.0/22
 
