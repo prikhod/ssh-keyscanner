@@ -1,3 +1,5 @@
+# ssh-keyscanner
+
 usage: ```python -m ssh_keyscanner [-h] -c CONFIG (-f FILE | (-a HOST -p PORT))```
 
 usage: ```python -m search_duplicates [-h] -c CONFIG```
